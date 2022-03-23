@@ -10,3 +10,16 @@ My mother will say
 "Did you ever see a goose
 Kissing a moose?"
 Down by the bay.
+
+# Down-by-the-bay but with CAPS
+
+DOWN BY THE BAY 
+WHERE THE WATERMELONS GROW 
+BACK TO MY HOME
+I DARE NOT GO 
+FOR IF I DO
+MY MOTHER WILL SAY
+
+"DID YOU EVER SEE A GOOSE 
+KISSING A MOOSE?"
+DOWN BY THE BAY!!!
